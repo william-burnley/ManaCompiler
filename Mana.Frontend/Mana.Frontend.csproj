@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mana.Common\Mana.Common.csproj" />
+    <ProjectReference Include="..\Mana.Core\Mana.Core.csproj" />
+  </ItemGroup>
+
 </Project>

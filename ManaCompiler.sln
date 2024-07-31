@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mana.Frontend", "Mana.Frontend\Mana.Frontend.csproj", "{4E55F2C2-0449-411C-9F18-FBFA6ECD79F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mana.Frontend", "Mana.Frontend\Mana.Frontend.csproj", "{4E55F2C2-0449-411C-9F18-FBFA6ECD79F6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{596A5FDA-6463-4FF5-A354-11D89551C47D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mana.Tests", "Mana.Tests\Mana.Tests.csproj", "{9727DDD0-F061-4BC2-82DB-00A5EA382100}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mana.Tests", "Mana.Tests\Mana.Tests.csproj", "{9727DDD0-F061-4BC2-82DB-00A5EA382100}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{384643F4-5070-434A-948A-2C7C6DC1E062}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mana.Core", "Mana.Core\Mana.Core.csproj", "{839C786B-383F-46DF-B544-43074899714B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mana.Core", "Mana.Core\Mana.Core.csproj", "{839C786B-383F-46DF-B544-43074899714B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mana.Common", "Mana.Common\Mana.Common.csproj", "{C40CF806-6E5B-4549-9206-7D375419897D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mana.Common", "Mana.Common\Mana.Common.csproj", "{C40CF806-6E5B-4549-9206-7D375419897D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mana.Backend", "Mana.Backend\Mana.Backend.csproj", "{C03D0A49-743A-4107-9137-E2AC95E2CAE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mana.Backend", "Mana.Backend\Mana.Backend.csproj", "{C03D0A49-743A-4107-9137-E2AC95E2CAE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
